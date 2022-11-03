@@ -1,4 +1,4 @@
-# Demonstra-o-AWS-Athena
+# Demonstrando-o-AWS-Athena
 
 Serviços utilizados
 
